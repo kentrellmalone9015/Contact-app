@@ -27,11 +27,7 @@
 .App-link {
   color: #61dafb;
 }
-h2{
-    display: flex;
-    justify-content: space-between;
-    text-align: center;
-}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
